@@ -85,3 +85,10 @@ This code implements a **real-time traffic management system** using Streamlit. 
 - **User Controls**: Customizable lane count and update frequency.
 
 This code creates a dynamic, interactive traffic management system simulation.
+#
+#
+![image](https://github.com/user-attachments/assets/8180cc3b-7d51-4309-a970-6397bf897af2)
+#
+#
+![image](https://github.com/user-attachments/assets/c5f8d9c7-5f28-4d89-a07a-9cff1c1d3114)
+
